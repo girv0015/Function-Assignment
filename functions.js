@@ -1,3 +1,6 @@
+/*Tina Girvan
+June 17, 2020
+*/
 // This function returns a random number between (and including both) minimum and maximum
 function getRandomInteger (minimum, maximum) {
   minimum = Math.ceil(minimum) // minimum is inclusive
